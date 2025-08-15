@@ -1,0 +1,3 @@
+# PowerShell Execution
+
+cmd.exe /c powershell.exe -WindowStyle Hidden -Command ...
