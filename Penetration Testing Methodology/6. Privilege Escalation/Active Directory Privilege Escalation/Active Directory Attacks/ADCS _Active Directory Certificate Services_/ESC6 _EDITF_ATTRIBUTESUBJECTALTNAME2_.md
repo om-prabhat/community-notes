@@ -1,0 +1,3 @@
+# ESC6 (EDITF_ATTRIBUTESUBJECTALTNAME2)
+
+Certificate template abuse
