@@ -1,0 +1,3 @@
+# Version Detection
+
+SELECT version()
