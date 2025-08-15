@@ -1,0 +1,3 @@
+# Shellshock
+
+CVE-2014-6271 (Bash RCE), CVE-2014-7169

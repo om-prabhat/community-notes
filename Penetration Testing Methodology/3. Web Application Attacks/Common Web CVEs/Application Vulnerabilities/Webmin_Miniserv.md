@@ -1,0 +1,3 @@
+# Webmin/Miniserv
+
+CVE-2019-15107 (RCE), CVE-2020-8820
