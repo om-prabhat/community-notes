@@ -1,0 +1,3 @@
+# Encoded Commands
+
+powershell -EncodedCommand
