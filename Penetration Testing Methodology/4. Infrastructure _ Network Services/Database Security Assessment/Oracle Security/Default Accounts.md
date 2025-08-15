@@ -1,0 +1,3 @@
+# Default Accounts
+
+SCOTT/TIGER, SYS/CHANGE_ON_INSTALL
