@@ -7,6 +7,7 @@ Perfect for exam prep, CTFs, or just general security reference.
 
 1. **Use variables** - Replace hardcoded values with placeholders:
    - `<target>` for IPs/domains
+   - `<myIP>` for your IP such as in reverse shell connections
    - `<username>`/`<password>` for credentials
    - `<hash>` for hash examples (use "password" as base if needed)
 
