@@ -1,0 +1,3 @@
+# Command Separators
+
+; && || | & (backticks) $(command)
